@@ -1,7 +1,5 @@
 # Getting Started with Balance Sheet App
 
-Extract the zip file xero-project
-
 In the project directory, you can run:
 
 ### `docker compose up --build`
