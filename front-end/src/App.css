@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sheetWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+  width: 70vw;
+}
+
+.error {
+  color: red;
+  font-size: large;
+  font-weight: bold;
+  margin-top: 40vh;
+}
+
+.loading {
+  color: rgb(18, 146, 146);
+  font-size: large;
+  font-weight: bold;
+  margin-top: 40vh;
+}

@@ -1,0 +1,13 @@
+.sectionTitle {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+}
+
+.subSectionTitle {
+  font-weight: bold;
+  font-size: 1rem;
+  border-bottom: 1px solid lightgrey;
+  padding-top: 1rem;
+  padding-left: 1.5rem;
+}

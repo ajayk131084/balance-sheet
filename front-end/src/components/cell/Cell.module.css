@@ -1,0 +1,59 @@
+.cellContainer {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  font-weight: 500;
+  border-bottom: 1px solid lightgrey;
+  text-align: right;
+  font-size: small;
+}
+
+.numberNormalCell {
+  text-align: right;
+  color: rgb(5, 141, 151);
+  height: 100%;
+  font-weight: 600;
+}
+
+.firstNormalCell {
+  padding-left: 3rem;
+  color: rgb(5, 141, 151);
+  height: 100%;
+  text-align: left;
+  font-weight: 600;
+}
+
+.numberSummaryCell {
+  font-weight: 700;
+  text-align: right;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  height: 100%;
+}
+
+.firstSummaryCell {
+  padding-left: 3rem;
+  font-weight: 700;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  height: 100%;
+  text-align: left;
+}
+
+.overallSummaryCell {
+  font-weight: 700;
+  text-align: right;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  height: 100%;
+}
+
+.overallFirstSummaryCell {
+  padding-left: 0;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  font-weight: 700;
+  height: 100%;
+  text-align: left;
+}
